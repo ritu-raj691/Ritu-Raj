@@ -91,6 +91,6 @@
 
 <a href="http://www.github.com/ritu-raj691"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritu-raj691&theme=blue_green" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritu-raj691&theme=blue_green" alt="ritu-raj691" /></p>
-
 <a href="http://www.github.com/ritu-raj691"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritu-raj691&theme=blue_green" /></a><a href="http://www.github.com/ritu-raj691"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritu-raj691&theme=blue_green"/></a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritu-raj691&theme=blue_green" alt="ritu-raj691" /></p>
