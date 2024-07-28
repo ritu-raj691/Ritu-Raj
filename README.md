@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently exploring **backend technologies and cloud development techniques.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfoliorituraj.netlify.app/)
+- 👨‍💻 Website [My Portfolio](https://portfoliorituraj.netlify.app/)
 
 - 📫 How to reach me **rituraj691@gmail.com**
 
